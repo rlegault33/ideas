@@ -1,0 +1,4 @@
+
+# don't ignore htmsl files im this direotory
+# cancel ignore rule
+!*/*.html

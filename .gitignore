@@ -1,0 +1,3 @@
+#only ignore html files that are in any subdirectory
+*/*.html
+
